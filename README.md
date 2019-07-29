@@ -1,1 +1,3 @@
-"# noam_warbot" 
+# Noam Warbot
+
+Repositório com o código da guerra do Noam
