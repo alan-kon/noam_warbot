@@ -1,0 +1,46 @@
+{
+    "anakim":{
+        "ataque": 8.642857143,
+        "defesa": 13
+    },
+    "galim":{
+        "ataque": 2.571428571,
+        "defesa": 6
+    },
+    "cochavim":{
+        "ataque": 7.642857143,
+        "defesa": 16
+    },
+    "iareach":{
+        "ataque": 5.142857143,
+        "defesa": 15
+    },
+    "shavitim":{
+        "ataque": 7.357142857,
+        "defesa": 16
+    },
+    "guesher":{
+        "ataque": 6.5,
+        "defesa": 15
+    },
+    "shemesh":{
+        "ataque": 5.785714286,
+        "defesa": 21
+    },
+    "lochamim":{
+        "ataque": 5.142857143,
+        "defesa": 11
+    },
+    "gamadim":{
+        "ataque": 3.357142857,
+        "defesa": 13
+    },
+    "machar":{
+        "ataque": 10,
+        "defesa": 15
+    },
+    "madrichim":{
+        "ataque": 6.21,
+        "defesa": 14.1
+    }
+}

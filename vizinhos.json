@@ -1,0 +1,13 @@
+{
+    "anakim":["shemesh","lochamim","iareach"],
+    "galim":["shemesh","cochavim","gamadim","madrichim","machar","lochamim"],
+    "cochavim":["shemesh","galim","gamadim"],
+    "iareach":["anakim","lochamim"],
+    "shavitim":["madrichim"],
+    "guesher":["gamadim","madrichim"],
+    "shemesh":["lochamim","anakim","galim","cochavim"],
+    "lochamim":["anakim","iareach","machar","galim","shemesh"],
+    "gamadim":["cochavim","guesher","madrichim","galim"],
+    "machar":["lochamim","galim","madrichim"],
+    "madrichim":["galim","gamadim","guesher","shavitim","machar"]
+}
